@@ -6,3 +6,6 @@ tujuan dari pembuatan aplikasi ini adalah untuk mempermudah dalam algoritma yang
 pembuatan aplikasi ini engine-nya sama seperti chat gpt 4
 ##penutup
 aplikasi ini dibutuhkan untuk mempermudah mencari data yang sedang dibutuhkan dan dibuat sama seperti chat gpt 4
+
+link
+https://github.com/zulfa956/Vercel-Ai
